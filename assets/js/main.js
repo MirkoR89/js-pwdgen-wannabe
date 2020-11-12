@@ -1,7 +1,7 @@
 // User identity
 var identityName = prompt("What's your name?");
 var identityLastName = prompt("What's your last name?");
-document.getElementById("identityName").innerHTML = "Hello" + " " + identityName + " " + identityLastName;
+document.getElementById("identity").innerHTML = "Hello" + " " + identityName + " " + identityLastName;
 
 
 // User favorite color

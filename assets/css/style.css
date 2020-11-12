@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+h1 {
+  background-color: yellowgreen;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+h2 {
+  background-color: aquamarine;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+h3 {
+  background-color: lightblue;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#unsecurePassword {
+  background-color: darkred;
+  padding: 20px;
+  border-radius: 10px;
+
+}
